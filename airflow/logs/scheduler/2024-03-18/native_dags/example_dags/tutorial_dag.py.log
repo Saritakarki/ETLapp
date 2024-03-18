@@ -1,0 +1,882 @@
+[2024-03-18T11:12:05.160+0545] {processor.py:161} INFO - Started process (PID=12240) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:05.161+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:12:05.161+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:05.161+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:05.166+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:05.239+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:05.239+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:12:05.246+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:05.246+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:12:05.263+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.105 seconds
+[2024-03-18T11:12:54.129+0545] {processor.py:161} INFO - Started process (PID=12384) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:54.131+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:12:54.132+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:54.132+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:54.135+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:12:54.300+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:54.300+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:12:54.311+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:54.311+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:12:54.359+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.232 seconds
+[2024-03-18T11:13:43.783+0545] {processor.py:161} INFO - Started process (PID=12433) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:13:43.786+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:13:43.787+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:43.786+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:13:43.792+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:13:43.876+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:43.875+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:13:43.885+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:43.885+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:13:43.904+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.123 seconds
+[2024-03-18T11:14:28.039+0545] {processor.py:161} INFO - Started process (PID=12533) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:14:28.041+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:14:28.042+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:28.042+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:14:28.048+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:14:28.064+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:28.064+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:14:28.080+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:28.080+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:14:28.104+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2024-03-18T11:15:04.634+0545] {processor.py:161} INFO - Started process (PID=12638) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:04.637+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:15:04.640+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:04.639+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:04.654+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:04.671+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:04.671+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:15:04.681+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:04.681+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:15:04.698+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T11:15:38.348+0545] {processor.py:161} INFO - Started process (PID=12813) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:38.351+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:15:38.351+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:38.351+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:38.356+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:15:38.368+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:38.368+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:15:38.379+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:38.379+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:15:38.406+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2024-03-18T11:16:12.243+0545] {processor.py:161} INFO - Started process (PID=12854) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:12.246+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:16:12.249+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:12.248+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:12.262+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:12.279+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:12.278+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:16:12.288+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:12.288+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:16:12.304+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-03-18T11:16:50.456+0545] {processor.py:161} INFO - Started process (PID=12915) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:50.458+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:16:50.459+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:50.458+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:50.462+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:16:50.473+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:50.473+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:16:50.482+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:50.482+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:16:50.499+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T11:17:26.644+0545] {processor.py:161} INFO - Started process (PID=12960) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:17:26.647+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:17:26.650+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:26.649+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:17:26.663+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:17:26.681+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:26.681+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:17:26.691+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:26.691+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:17:26.719+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2024-03-18T11:18:01.620+0545] {processor.py:161} INFO - Started process (PID=13000) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:01.623+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:18:01.623+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:01.623+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:01.627+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:01.638+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:01.638+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:18:01.646+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:01.646+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:18:01.664+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T11:18:36.500+0545] {processor.py:161} INFO - Started process (PID=13045) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:36.503+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:18:36.506+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:36.505+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:36.521+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:18:36.538+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:36.538+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:18:36.548+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:36.548+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:18:36.564+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T11:19:34.845+0545] {processor.py:161} INFO - Started process (PID=13104) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:19:34.849+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:19:34.851+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:34.850+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:19:34.864+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:19:34.884+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:34.884+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:19:34.892+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:34.892+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:19:34.908+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2024-03-18T11:20:23.753+0545] {processor.py:161} INFO - Started process (PID=13176) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:20:23.755+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:20:23.757+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:23.756+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:20:23.762+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:20:23.776+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:23.776+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:20:23.789+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:23.788+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:20:23.812+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2024-03-18T11:21:03.885+0545] {processor.py:161} INFO - Started process (PID=13239) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:03.888+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:21:03.890+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:03.889+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:03.896+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:03.908+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:03.908+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:21:03.982+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:03.982+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:21:04.002+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.121 seconds
+[2024-03-18T11:21:48.831+0545] {processor.py:161} INFO - Started process (PID=13315) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:48.835+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:21:48.838+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:48.837+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:48.851+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:21:48.870+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:48.869+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:21:48.879+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:48.879+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:21:48.896+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T11:22:26.424+0545] {processor.py:161} INFO - Started process (PID=13367) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:22:26.426+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:22:26.426+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:26.426+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:22:26.431+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:22:26.444+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:26.443+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:22:26.455+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:26.454+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:22:26.472+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2024-03-18T11:23:02.192+0545] {processor.py:161} INFO - Started process (PID=13415) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:02.195+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:23:02.198+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:02.197+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:02.208+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:02.223+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:02.223+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:23:02.233+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:02.232+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:23:02.249+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2024-03-18T11:23:38.538+0545] {processor.py:161} INFO - Started process (PID=13461) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:38.540+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:23:38.541+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:38.541+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:38.545+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:23:38.557+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:38.557+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:23:38.568+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:38.567+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:23:38.586+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2024-03-18T11:24:15.671+0545] {processor.py:161} INFO - Started process (PID=13509) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:15.673+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:24:15.673+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:15.673+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:15.678+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:15.692+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:15.692+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:24:15.703+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:15.703+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:24:15.730+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2024-03-18T11:24:49.445+0545] {processor.py:161} INFO - Started process (PID=13640) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:49.447+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:24:49.447+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:49.447+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:49.451+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:24:49.462+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:49.462+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:24:49.471+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:49.471+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:24:49.488+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T11:25:26.618+0545] {processor.py:161} INFO - Started process (PID=13701) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:25:26.621+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:25:26.621+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:26.621+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:25:26.625+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:25:26.637+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:26.636+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:25:26.646+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:26.646+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:25:26.664+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2024-03-18T11:26:00.769+0545] {processor.py:161} INFO - Started process (PID=13752) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:00.773+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:26:00.775+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:00.774+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:00.790+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:00.808+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:00.808+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:26:00.818+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:00.818+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:26:00.836+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2024-03-18T11:26:38.335+0545] {processor.py:161} INFO - Started process (PID=14266) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:38.338+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:26:38.339+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:38.339+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:38.346+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:26:38.365+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:38.365+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:26:38.376+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:38.376+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:26:38.393+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2024-03-18T11:27:16.391+0545] {processor.py:161} INFO - Started process (PID=14312) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:16.393+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:27:16.394+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:16.393+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:16.397+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:16.408+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:16.408+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:27:16.417+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:16.417+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:27:16.443+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2024-03-18T11:27:52.036+0545] {processor.py:161} INFO - Started process (PID=14511) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:52.040+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:27:52.043+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:52.042+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:52.057+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:27:52.075+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:52.075+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:27:52.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:52.085+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:27:52.103+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2024-03-18T11:28:27.748+0545] {processor.py:161} INFO - Started process (PID=14624) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:28:27.750+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:28:27.751+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:27.750+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:28:27.755+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:28:27.765+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:27.765+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:28:27.774+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:27.774+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:28:27.791+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T11:29:06.977+0545] {processor.py:161} INFO - Started process (PID=14668) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:06.980+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:29:06.982+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:06.981+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:06.989+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:07.004+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:07.003+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:29:07.013+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:07.013+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:29:07.032+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2024-03-18T11:29:43.195+0545] {processor.py:161} INFO - Started process (PID=14710) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:43.199+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:29:43.201+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:43.200+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:43.215+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:29:43.232+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:43.232+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:29:43.241+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:43.241+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:29:43.268+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2024-03-18T11:30:21.579+0545] {processor.py:161} INFO - Started process (PID=14769) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:21.582+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:30:21.582+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:21.582+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:21.587+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:21.599+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:21.599+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:30:21.610+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:21.610+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:30:21.626+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T11:30:57.059+0545] {processor.py:161} INFO - Started process (PID=14868) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:57.064+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:30:57.066+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:57.065+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:57.071+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:30:57.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:57.086+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:30:57.099+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:57.099+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:30:57.120+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2024-03-18T11:31:33.304+0545] {processor.py:161} INFO - Started process (PID=14954) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:31:33.307+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:31:33.309+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:33.308+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:31:33.317+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:31:33.336+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:33.336+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:31:33.346+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:33.346+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:31:33.366+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2024-03-18T11:32:11.707+0545] {processor.py:161} INFO - Started process (PID=15027) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:11.710+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:32:11.712+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:11.711+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:11.722+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:11.739+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:11.739+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:32:11.749+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:11.748+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:32:11.777+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2024-03-18T11:32:49.887+0545] {processor.py:161} INFO - Started process (PID=15081) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:49.889+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:32:49.889+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:49.889+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:49.893+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:32:49.903+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:49.903+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:32:49.912+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:49.912+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:32:49.930+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T11:33:26.942+0545] {processor.py:161} INFO - Started process (PID=15161) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:33:26.946+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:33:26.949+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:26.948+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:33:26.971+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:33:26.997+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:26.997+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:33:27.006+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:27.005+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:33:27.024+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2024-03-18T11:34:16.551+0545] {processor.py:161} INFO - Started process (PID=15232) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:16.553+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:34:16.554+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:16.553+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:16.557+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:16.570+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:16.570+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:34:16.582+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:16.582+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:34:16.609+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2024-03-18T11:34:55.864+0545] {processor.py:161} INFO - Started process (PID=15356) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:55.866+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:34:55.866+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:55.866+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:55.870+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:34:55.880+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:55.880+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:34:55.954+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:55.954+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:34:55.975+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.113 seconds
+[2024-03-18T11:35:37.765+0545] {processor.py:161} INFO - Started process (PID=15417) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:35:37.769+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:35:37.772+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:37.771+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:35:37.786+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:35:37.803+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:37.803+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:35:37.812+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:37.812+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:35:37.839+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2024-03-18T11:36:18.460+0545] {processor.py:161} INFO - Started process (PID=15462) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:18.462+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:36:18.463+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:18.462+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:18.467+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:18.478+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:18.478+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:36:18.488+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:18.488+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:36:18.505+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2024-03-18T11:36:56.545+0545] {processor.py:161} INFO - Started process (PID=15503) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:56.547+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:36:56.548+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:56.548+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:56.552+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:36:56.562+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:56.562+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:36:56.571+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:56.571+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:36:56.605+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2024-03-18T11:37:36.722+0545] {processor.py:161} INFO - Started process (PID=15559) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:37:36.725+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:37:36.727+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:36.726+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:37:36.736+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:37:36.755+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:36.755+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:37:36.766+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:36.766+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:37:36.783+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2024-03-18T11:38:12.289+0545] {processor.py:161} INFO - Started process (PID=15641) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:12.293+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:38:12.296+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:12.295+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:12.307+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:12.324+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:12.324+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:38:12.334+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:12.334+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:38:12.353+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T11:38:47.935+0545] {processor.py:161} INFO - Started process (PID=15687) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:47.938+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:38:47.939+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:47.938+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:47.944+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:38:47.958+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:47.958+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:38:47.967+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:47.967+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:38:47.985+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2024-03-18T11:39:24.342+0545] {processor.py:161} INFO - Started process (PID=15734) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:24.346+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:39:24.349+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:24.348+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:24.359+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:24.375+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:24.375+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:39:24.385+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:24.384+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:39:24.411+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.076 seconds
+[2024-03-18T11:39:58.441+0545] {processor.py:161} INFO - Started process (PID=15778) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:58.443+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:39:58.444+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:58.444+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:58.448+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:39:58.459+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:58.459+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:39:58.469+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:58.468+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:39:58.485+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2024-03-18T11:40:35.221+0545] {processor.py:161} INFO - Started process (PID=15828) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:40:35.224+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:40:35.225+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:35.224+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:40:35.231+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:40:35.247+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:35.247+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:40:35.261+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:35.260+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:40:35.299+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2024-03-18T11:41:14.230+0545] {processor.py:161} INFO - Started process (PID=15881) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:14.233+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:41:14.234+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:14.234+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:14.240+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:14.271+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:14.270+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:41:14.282+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:14.281+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:41:14.313+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2024-03-18T11:41:50.301+0545] {processor.py:161} INFO - Started process (PID=15953) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:50.304+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:41:50.307+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:50.306+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:50.322+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:41:50.342+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:50.341+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:41:50.352+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:50.352+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:41:50.372+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds
+[2024-03-18T11:42:27.815+0545] {processor.py:161} INFO - Started process (PID=15996) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:42:27.817+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:42:27.818+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:27.817+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:42:27.821+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:42:27.832+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:27.832+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:42:27.841+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:27.841+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:42:27.867+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2024-03-18T11:43:10.355+0545] {processor.py:161} INFO - Started process (PID=16045) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:10.357+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:43:10.358+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:10.358+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:10.362+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:10.373+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:10.373+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:43:10.382+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:10.382+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:43:10.400+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2024-03-18T11:43:46.999+0545] {processor.py:161} INFO - Started process (PID=16102) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:47.003+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:43:47.005+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:47.004+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:47.018+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:43:47.036+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:47.035+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:43:47.045+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:47.045+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:43:47.062+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T11:44:24.529+0545] {processor.py:161} INFO - Started process (PID=16152) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:44:24.532+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:44:24.534+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:24.533+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:44:24.544+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:44:24.560+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:24.560+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:44:24.569+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:24.569+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:44:24.587+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2024-03-18T11:45:02.516+0545] {processor.py:161} INFO - Started process (PID=16198) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:02.517+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:45:02.518+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:02.518+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:02.521+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:02.532+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:02.532+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:45:02.541+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:02.541+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:45:02.558+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2024-03-18T11:45:42.529+0545] {processor.py:161} INFO - Started process (PID=16252) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:42.533+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:45:42.536+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:42.535+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:42.549+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:45:42.565+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:42.565+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:45:42.575+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:42.575+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:45:42.591+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2024-03-18T11:46:21.727+0545] {processor.py:161} INFO - Started process (PID=16338) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:21.730+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:46:21.731+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:21.731+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:21.741+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:21.761+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:21.760+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:46:21.771+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:21.770+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:46:21.787+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2024-03-18T11:46:57.954+0545] {processor.py:161} INFO - Started process (PID=16381) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:57.956+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:46:57.957+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:57.956+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:57.961+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:46:57.973+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:57.973+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:46:57.984+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:57.984+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:46:58.001+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T11:47:35.208+0545] {processor.py:161} INFO - Started process (PID=16461) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:47:35.211+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:47:35.214+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:35.213+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:47:35.227+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:47:35.243+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:35.243+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:47:35.253+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:35.253+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:47:35.280+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2024-03-18T11:48:11.635+0545] {processor.py:161} INFO - Started process (PID=16571) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:11.638+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:48:11.641+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:11.640+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:11.655+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:11.672+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:11.672+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:48:11.682+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:11.682+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:48:11.699+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T11:48:48.992+0545] {processor.py:161} INFO - Started process (PID=16632) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:48.997+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:48:49.000+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:48.999+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:49.013+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:48:49.038+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:49.038+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:48:49.060+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:49.059+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:48:49.090+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.108 seconds
+[2024-03-18T11:49:28.003+0545] {processor.py:161} INFO - Started process (PID=16681) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:49:28.006+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:49:28.009+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:28.008+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:49:28.024+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:49:28.047+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:28.046+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:49:28.058+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:28.058+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:49:28.076+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2024-03-18T11:50:05.314+0545] {processor.py:161} INFO - Started process (PID=16721) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:05.316+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:50:05.317+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:05.316+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:05.321+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:05.334+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:05.334+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:50:05.345+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:05.344+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:50:05.362+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2024-03-18T11:50:41.354+0545] {processor.py:161} INFO - Started process (PID=16768) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:41.357+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:50:41.357+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:41.357+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:41.362+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:50:41.376+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:41.375+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:50:41.387+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:41.386+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:50:41.403+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2024-03-18T11:51:22.098+0545] {processor.py:161} INFO - Started process (PID=16901) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:51:22.102+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:51:22.104+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:22.103+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:51:22.117+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:51:22.133+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:22.133+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:51:22.143+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:22.142+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:51:22.169+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2024-03-18T11:52:03.779+0545] {processor.py:161} INFO - Started process (PID=16975) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:03.783+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:52:03.786+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:03.785+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:03.799+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:03.816+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:03.816+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:52:03.826+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:03.826+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:52:03.844+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T11:52:42.087+0545] {processor.py:161} INFO - Started process (PID=17078) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:42.089+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:52:42.089+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:42.089+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:42.093+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:52:42.104+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:42.103+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:52:42.112+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:42.112+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:52:42.129+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T11:53:24.011+0545] {processor.py:161} INFO - Started process (PID=17223) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:53:24.015+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:53:24.018+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:24.017+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:53:24.032+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:53:24.050+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:24.050+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:53:24.059+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:24.059+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:53:24.076+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T11:54:01.385+0545] {processor.py:161} INFO - Started process (PID=17342) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:01.387+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:54:01.387+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:01.387+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:01.392+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:01.406+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:01.406+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:54:01.417+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:01.417+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:54:01.434+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2024-03-18T11:54:40.047+0545] {processor.py:161} INFO - Started process (PID=17388) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:40.050+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:54:40.052+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:40.051+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:40.065+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:54:40.083+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:40.083+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:54:40.093+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:40.093+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:54:40.111+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T11:55:18.823+0545] {processor.py:161} INFO - Started process (PID=17439) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:18.827+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:55:18.829+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:18.828+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:18.845+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:18.863+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:18.863+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:55:18.873+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:18.873+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:55:18.892+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.076 seconds
+[2024-03-18T11:55:59.167+0545] {processor.py:161} INFO - Started process (PID=17560) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:59.171+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:55:59.173+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:59.172+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:59.187+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:55:59.205+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:59.204+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:55:59.214+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:59.214+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:55:59.231+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T11:56:37.591+0545] {processor.py:161} INFO - Started process (PID=17666) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:56:37.594+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:56:37.596+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:37.595+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:56:37.608+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:56:37.626+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:37.626+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:56:37.636+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:37.636+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:56:37.652+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-03-18T11:57:15.392+0545] {processor.py:161} INFO - Started process (PID=17732) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:15.396+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:57:15.398+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:15.397+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:15.412+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:15.428+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:15.428+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:57:15.438+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:15.437+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:57:15.455+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T11:57:50.935+0545] {processor.py:161} INFO - Started process (PID=17779) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:50.939+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:57:50.941+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:50.940+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:50.952+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:57:50.967+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:50.967+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:57:50.977+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:50.977+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:57:50.993+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2024-03-18T11:58:26.911+0545] {processor.py:161} INFO - Started process (PID=17828) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:58:26.915+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:58:26.918+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:26.917+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:58:26.927+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:58:26.943+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:26.943+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:58:26.953+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:26.953+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:58:26.973+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2024-03-18T11:59:04.722+0545] {processor.py:161} INFO - Started process (PID=17870) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:04.725+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:59:04.727+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:04.726+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:04.742+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:04.765+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:04.765+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:59:04.775+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:04.775+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:59:04.792+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T11:59:39.626+0545] {processor.py:161} INFO - Started process (PID=17944) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:39.628+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T11:59:39.629+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:39.629+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:39.633+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T11:59:39.646+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:39.646+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T11:59:39.656+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:39.656+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T11:59:39.673+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T12:00:18.114+0545] {processor.py:161} INFO - Started process (PID=18000) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:18.117+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:00:18.120+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:18.119+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:18.133+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:18.152+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:18.152+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:00:18.163+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:18.163+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:00:18.190+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2024-03-18T12:00:53.991+0545] {processor.py:161} INFO - Started process (PID=18049) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:53.994+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:00:53.997+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:53.996+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:54.012+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:00:54.029+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:54.029+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:00:54.038+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:54.038+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:00:54.066+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2024-03-18T12:01:32.885+0545] {processor.py:161} INFO - Started process (PID=18095) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:01:32.889+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:01:32.892+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:32.891+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:01:32.906+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:01:32.923+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:32.923+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:01:32.933+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:32.933+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:01:32.950+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T12:02:10.893+0545] {processor.py:161} INFO - Started process (PID=18147) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:10.897+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:02:10.900+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:10.899+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:10.913+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:10.931+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:10.931+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:02:10.941+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:10.941+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:02:10.971+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds
+[2024-03-18T12:02:48.624+0545] {processor.py:161} INFO - Started process (PID=18198) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:48.628+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:02:48.631+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:48.630+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:48.644+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:02:48.661+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:48.661+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:02:48.671+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:48.670+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:02:48.688+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2024-03-18T12:03:25.620+0545] {processor.py:161} INFO - Started process (PID=18240) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:03:25.622+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:03:25.622+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:25.622+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:03:25.626+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:03:25.636+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:25.636+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:03:25.645+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:25.644+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:03:25.661+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2024-03-18T12:04:03.546+0545] {processor.py:161} INFO - Started process (PID=18320) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:03.550+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:04:03.553+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:03.552+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:03.566+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:03.583+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:03.583+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:04:03.593+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:03.593+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:04:03.609+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T12:04:40.761+0545] {processor.py:161} INFO - Started process (PID=18363) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:40.764+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:04:40.766+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:40.765+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:40.782+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:04:40.805+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:40.804+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:04:40.815+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:40.814+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:04:40.832+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T12:05:14.641+0545] {processor.py:161} INFO - Started process (PID=18402) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:14.644+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:05:14.647+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:14.646+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:14.660+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:14.678+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:14.678+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:05:14.688+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:14.687+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:05:14.704+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2024-03-18T12:05:52.916+0545] {processor.py:161} INFO - Started process (PID=18446) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:52.918+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:05:52.919+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:52.919+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:52.922+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:05:52.933+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:52.933+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:05:52.942+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:52.942+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:05:52.958+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2024-03-18T12:06:31.644+0545] {processor.py:161} INFO - Started process (PID=18487) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:06:31.647+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:06:31.649+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:31.648+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:06:31.663+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:06:31.686+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:31.686+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:06:31.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:31.697+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:06:31.718+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2024-03-18T12:07:10.028+0545] {processor.py:161} INFO - Started process (PID=18527) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:10.030+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:07:10.031+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:10.031+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:10.035+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:10.046+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:10.046+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:07:10.055+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:10.055+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:07:10.072+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:07:46.643+0545] {processor.py:161} INFO - Started process (PID=18566) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:46.645+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:07:46.646+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:46.646+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:46.650+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:07:46.663+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:46.663+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:07:46.674+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:46.673+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:07:46.700+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2024-03-18T12:08:24.819+0545] {processor.py:161} INFO - Started process (PID=18608) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:08:24.820+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:08:24.821+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:24.821+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:08:24.825+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:08:24.835+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:24.835+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:08:24.844+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:24.844+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:08:24.871+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2024-03-18T12:09:00.007+0545] {processor.py:161} INFO - Started process (PID=18648) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:00.009+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:09:00.009+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:00.009+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:00.013+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:00.024+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:00.024+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:09:00.033+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:00.033+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:09:00.051+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2024-03-18T12:09:31.616+0545] {processor.py:161} INFO - Started process (PID=18685) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:31.619+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:09:31.621+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:31.620+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:31.634+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:09:31.653+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:31.652+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:09:31.663+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:31.663+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:09:31.680+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T12:10:07.534+0545] {processor.py:161} INFO - Started process (PID=18721) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:07.536+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:10:07.536+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:07.536+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:07.542+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:07.557+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:07.556+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:10:07.568+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:07.568+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:10:07.585+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2024-03-18T12:10:43.998+0545] {processor.py:161} INFO - Started process (PID=18763) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:44.000+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:10:44.002+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:44.001+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:44.016+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:10:44.042+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:44.042+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:10:44.053+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:44.053+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:10:44.072+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.076 seconds
+[2024-03-18T12:11:23.357+0545] {processor.py:161} INFO - Started process (PID=18805) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:11:23.359+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:11:23.359+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:23.359+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:11:23.363+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:11:23.375+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:23.374+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:11:23.384+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:23.384+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:11:23.404+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T12:12:01.326+0545] {processor.py:161} INFO - Started process (PID=18847) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:01.329+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:12:01.331+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:01.330+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:01.348+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:01.373+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:01.373+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:12:01.384+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:01.384+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:12:01.402+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2024-03-18T12:12:39.809+0545] {processor.py:161} INFO - Started process (PID=18888) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:39.810+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:12:39.811+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:39.811+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:39.816+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:12:39.826+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:39.826+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:12:39.835+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:39.834+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:12:39.851+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2024-03-18T12:13:17.172+0545] {processor.py:161} INFO - Started process (PID=18925) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:17.175+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:13:17.177+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:17.176+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:17.182+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:17.193+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:17.193+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:13:17.202+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:17.202+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:13:17.227+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2024-03-18T12:13:54.461+0545] {processor.py:161} INFO - Started process (PID=18971) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:54.463+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:13:54.463+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:54.463+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:54.468+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:13:54.478+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:54.478+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:13:54.488+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:54.487+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:13:54.506+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2024-03-18T12:14:30.713+0545] {processor.py:161} INFO - Started process (PID=19060) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:14:30.716+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:14:30.718+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:30.717+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:14:30.731+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:14:30.748+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:30.748+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:14:30.758+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:30.758+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:14:30.775+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-03-18T12:15:10.356+0545] {processor.py:161} INFO - Started process (PID=19123) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:10.358+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:15:10.359+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:10.359+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:10.364+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:10.379+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:10.379+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:15:10.388+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:10.388+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:15:10.404+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2024-03-18T12:15:46.260+0545] {processor.py:161} INFO - Started process (PID=19177) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:46.263+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:15:46.265+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:46.264+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:46.279+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:15:46.304+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:46.304+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:15:46.315+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:46.315+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:15:46.345+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2024-03-18T12:16:19.432+0545] {processor.py:161} INFO - Started process (PID=19380) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:16:19.434+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:16:19.434+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:19.434+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:16:19.438+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:16:19.449+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:19.449+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:16:19.457+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:19.457+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:16:19.475+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:17:01.026+0545] {processor.py:161} INFO - Started process (PID=19522) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:01.029+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:17:01.030+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:01.029+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:01.034+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:01.049+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:01.049+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:17:01.060+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:01.059+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:17:01.077+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2024-03-18T12:17:40.788+0545] {processor.py:161} INFO - Started process (PID=19622) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:40.790+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:17:40.791+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:40.790+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:40.795+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:17:40.806+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:40.806+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:17:40.816+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:40.816+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:17:40.838+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2024-03-18T12:18:20.625+0545] {processor.py:161} INFO - Started process (PID=19678) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:20.629+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:18:20.631+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:20.630+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:20.645+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:20.664+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:20.664+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:18:20.674+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:20.674+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:18:20.691+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2024-03-18T12:18:57.508+0545] {processor.py:161} INFO - Started process (PID=19720) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:57.510+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:18:57.510+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:57.510+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:57.515+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:18:57.528+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:57.528+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:18:57.539+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:57.539+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:18:57.555+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T12:19:33.492+0545] {processor.py:161} INFO - Started process (PID=19762) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:19:33.494+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:19:33.495+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:33.495+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:19:33.499+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:19:33.510+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:33.509+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:19:33.518+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:33.518+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:19:33.535+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:20:07.837+0545] {processor.py:161} INFO - Started process (PID=19807) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:07.839+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:20:07.840+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:07.839+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:07.844+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:07.854+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:07.854+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:20:07.863+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:07.862+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:20:07.878+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2024-03-18T12:20:46.931+0545] {processor.py:161} INFO - Started process (PID=19850) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:46.934+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:20:46.934+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:46.934+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:46.938+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:20:46.949+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:46.949+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:20:46.958+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:46.958+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:20:46.974+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:21:23.667+0545] {processor.py:161} INFO - Started process (PID=19892) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:23.668+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:21:23.669+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:23.669+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:23.673+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:23.683+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:23.683+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:21:23.692+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:23.692+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:21:23.718+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2024-03-18T12:21:58.058+0545] {processor.py:161} INFO - Started process (PID=19938) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:58.059+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:21:58.060+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:58.060+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:58.064+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:21:58.075+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:58.075+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:21:58.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:58.085+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:21:58.104+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2024-03-18T12:22:35.153+0545] {processor.py:161} INFO - Started process (PID=19994) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:22:35.155+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:22:35.156+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:35.156+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:22:35.160+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:22:35.171+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:35.170+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:22:35.179+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:35.179+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:22:35.204+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2024-03-18T12:23:11.846+0545] {processor.py:161} INFO - Started process (PID=20060) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:11.850+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:23:11.853+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:11.851+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:11.866+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:11.882+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:11.882+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:23:11.891+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:11.891+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:23:11.909+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2024-03-18T12:23:52.279+0545] {processor.py:161} INFO - Started process (PID=20107) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:52.281+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:23:52.281+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:52.281+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:52.285+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:23:52.297+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:52.296+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:23:52.306+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:52.306+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:23:52.321+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:24:31.874+0545] {processor.py:161} INFO - Started process (PID=20174) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:24:31.876+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:24:31.876+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:31.876+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:24:31.880+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:24:31.891+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:31.891+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:24:31.901+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:31.901+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:24:31.919+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2024-03-18T12:25:08.826+0545] {processor.py:161} INFO - Started process (PID=20321) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:08.828+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:25:08.830+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:08.829+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:08.836+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:08.849+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:08.849+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:25:08.858+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:08.857+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:25:08.875+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2024-03-18T12:25:46.147+0545] {processor.py:161} INFO - Started process (PID=20492) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:46.150+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:25:46.153+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:46.152+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:46.166+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:25:46.182+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:46.182+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:25:46.192+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:46.192+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:25:46.208+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-03-18T12:26:25.512+0545] {processor.py:161} INFO - Started process (PID=22111) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:26:25.516+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:26:25.518+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:25.517+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:26:25.530+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:26:25.547+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:25.547+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:26:25.557+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:25.556+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:26:25.583+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2024-03-18T12:27:05.185+0545] {processor.py:161} INFO - Started process (PID=23588) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:05.188+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:27:05.190+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:05.190+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:05.204+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:05.223+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:05.222+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:27:05.233+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:05.232+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:27:05.250+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T12:27:44.967+0545] {processor.py:161} INFO - Started process (PID=24680) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:44.971+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:27:44.973+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:44.972+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:44.987+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:27:45.004+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:45.004+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:27:45.014+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:45.014+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:27:45.031+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2024-03-18T12:28:26.242+0545] {processor.py:161} INFO - Started process (PID=24736) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:28:26.244+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:28:26.245+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:26.245+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:28:26.248+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:28:26.259+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:26.259+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:28:26.267+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:26.267+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:28:26.284+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2024-03-18T12:29:04.802+0545] {processor.py:161} INFO - Started process (PID=24994) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:04.805+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:29:04.806+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:04.806+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:04.817+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:04.835+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:04.835+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:29:04.845+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:04.845+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:29:04.862+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2024-03-18T12:29:43.871+0545] {processor.py:161} INFO - Started process (PID=26110) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:43.872+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:29:43.874+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:43.873+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:43.881+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:29:43.897+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:43.897+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:29:43.907+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:43.907+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:29:43.936+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-03-18T12:30:19.271+0545] {processor.py:161} INFO - Started process (PID=26214) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:30:19.273+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:30:19.274+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:19.274+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:30:19.278+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:30:19.288+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:19.288+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:30:19.297+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:19.297+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:30:19.315+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2024-03-18T12:31:00.629+0545] {processor.py:161} INFO - Started process (PID=28003) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:00.633+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:31:00.636+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:00.635+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:00.652+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:00.669+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:00.669+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:31:00.678+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:00.678+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:31:00.696+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.076 seconds
+[2024-03-18T12:31:37.644+0545] {processor.py:161} INFO - Started process (PID=28053) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:37.646+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-03-18T12:31:37.647+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:37.647+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:37.652+0545] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-03-18T12:31:37.664+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:37.664+0545] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T12:31:37.674+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:37.673+0545] {dag.py:3834} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-03-18T12:31:37.690+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds

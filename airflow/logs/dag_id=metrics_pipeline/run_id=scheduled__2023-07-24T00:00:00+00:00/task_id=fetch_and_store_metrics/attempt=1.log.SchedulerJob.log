@@ -1,0 +1,1 @@
+[2023-12-27T12:24:18.478+0545] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-24T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

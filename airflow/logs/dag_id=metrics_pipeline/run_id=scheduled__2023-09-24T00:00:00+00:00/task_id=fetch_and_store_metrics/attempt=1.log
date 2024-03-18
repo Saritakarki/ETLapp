@@ -1,0 +1,30 @@
+[2023-12-26T13:23:32.568+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [queued]>
+[2023-12-26T13:23:32.573+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [queued]>
+[2023-12-26T13:23:32.573+0545] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2023-12-26T13:23:32.585+0545] {taskinstance.py:2192} INFO - Executing <Task(PythonOperator): fetch_and_store_metrics> on 2023-09-24 00:00:00+00:00
+[2023-12-26T13:23:32.587+0545] {standard_task_runner.py:60} INFO - Started process 27872 to run task
+[2023-12-26T13:23:32.589+0545] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'metrics_pipeline', 'fetch_and_store_metrics', 'scheduled__2023-09-24T00:00:00+00:00', '--job-id', '270', '--raw', '--subdir', 'DAGS_FOLDER/taxi_metrics_dag.py', '--cfg-path', '/tmp/tmpgq3xbsdz']
+[2023-12-26T13:23:32.589+0545] {standard_task_runner.py:88} INFO - Job 270: Subtask fetch_and_store_metrics
+[2023-12-26T13:23:32.613+0545] {task_command.py:423} INFO - Running <TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [running]> on host Sarita-Thinkpad
+[2023-12-26T13:23:32.666+0545] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='metrics_pipeline' AIRFLOW_CTX_TASK_ID='fetch_and_store_metrics' AIRFLOW_CTX_EXECUTION_DATE='2023-09-24T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-09-24T00:00:00+00:00'
+[2023-12-26T13:23:32.683+0545] {python.py:201} INFO - Done. Returned value was: None
+[2023-12-26T13:23:32.690+0545] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=metrics_pipeline, task_id=fetch_and_store_metrics, execution_date=20230924T000000, start_date=20231226T073832, end_date=20231226T073832
+[2023-12-26T13:23:32.721+0545] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2023-12-26T13:23:32.729+0545] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-12-27T12:54:10.958+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [queued]>
+[2023-12-27T12:54:10.963+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [queued]>
+[2023-12-27T12:54:10.963+0545] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2023-12-27T12:54:10.976+0545] {taskinstance.py:2192} INFO - Executing <Task(PythonOperator): fetch_and_store_metrics> on 2023-09-24 00:00:00+00:00
+[2023-12-27T12:54:10.977+0545] {standard_task_runner.py:60} INFO - Started process 17837 to run task
+[2023-12-27T12:54:10.979+0545] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'metrics_pipeline', 'fetch_and_store_metrics', 'scheduled__2023-09-24T00:00:00+00:00', '--job-id', '494', '--raw', '--subdir', 'DAGS_FOLDER/taxi_metrics_dag.py', '--cfg-path', '/tmp/tmpi_1bx3ks']
+[2023-12-27T12:54:10.980+0545] {standard_task_runner.py:88} INFO - Job 494: Subtask fetch_and_store_metrics
+[2023-12-27T12:54:11.003+0545] {task_command.py:423} INFO - Running <TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-09-24T00:00:00+00:00 [running]> on host Sarita-Thinkpad
+[2023-12-27T12:54:11.050+0545] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='metrics_pipeline' AIRFLOW_CTX_TASK_ID='fetch_and_store_metrics' AIRFLOW_CTX_EXECUTION_DATE='2023-09-24T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-09-24T00:00:00+00:00'
+[2023-12-27T12:54:11.051+0545] {taxi_metrics_dag.py:62} INFO - Getting Clickhouse Data.......
+[2023-12-27T12:54:18.420+0545] {taxi_metrics_dag.py:64} INFO - Inserting Data into SQLite.....
+[2023-12-27T12:54:18.469+0545] {taxi_metrics_dag.py:57} INFO - Successfully inserted data into SQLite!!
+[2023-12-27T12:54:18.470+0545] {taxi_metrics_dag.py:66} INFO - Task completed successfully!!
+[2023-12-27T12:54:18.470+0545] {python.py:201} INFO - Done. Returned value was: None
+[2023-12-27T12:54:18.481+0545] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=metrics_pipeline, task_id=fetch_and_store_metrics, execution_date=20230924T000000, start_date=20231227T070910, end_date=20231227T070918
+[2023-12-27T12:54:18.532+0545] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2023-12-27T12:54:18.542+0545] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check

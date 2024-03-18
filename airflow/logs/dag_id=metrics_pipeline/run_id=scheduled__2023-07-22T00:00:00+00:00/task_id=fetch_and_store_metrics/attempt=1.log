@@ -1,0 +1,55 @@
+[2023-12-26T13:20:23.013+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [queued]>
+[2023-12-26T13:20:23.019+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [queued]>
+[2023-12-26T13:20:23.019+0545] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2023-12-26T13:20:23.030+0545] {taskinstance.py:2192} INFO - Executing <Task(PythonOperator): fetch_and_store_metrics> on 2023-07-22 00:00:00+00:00
+[2023-12-26T13:20:23.033+0545] {standard_task_runner.py:60} INFO - Started process 27394 to run task
+[2023-12-26T13:20:23.035+0545] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'metrics_pipeline', 'fetch_and_store_metrics', 'scheduled__2023-07-22T00:00:00+00:00', '--job-id', '206', '--raw', '--subdir', 'DAGS_FOLDER/taxi_metrics_dag.py', '--cfg-path', '/tmp/tmpoa5on5co']
+[2023-12-26T13:20:23.035+0545] {standard_task_runner.py:88} INFO - Job 206: Subtask fetch_and_store_metrics
+[2023-12-26T13:20:23.060+0545] {task_command.py:423} INFO - Running <TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [running]> on host Sarita-Thinkpad
+[2023-12-26T13:20:23.121+0545] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='metrics_pipeline' AIRFLOW_CTX_TASK_ID='fetch_and_store_metrics' AIRFLOW_CTX_EXECUTION_DATE='2023-07-22T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-22T00:00:00+00:00'
+[2023-12-26T13:20:23.139+0545] {python.py:201} INFO - Done. Returned value was: None
+[2023-12-26T13:20:23.152+0545] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=metrics_pipeline, task_id=fetch_and_store_metrics, execution_date=20230722T000000, start_date=20231226T073523, end_date=20231226T073523
+[2023-12-26T13:20:23.207+0545] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2023-12-26T13:20:23.221+0545] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-12-27T12:23:35.955+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [queued]>
+[2023-12-27T12:23:35.963+0545] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [queued]>
+[2023-12-27T12:23:35.963+0545] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2023-12-27T12:23:35.976+0545] {taskinstance.py:2192} INFO - Executing <Task(PythonOperator): fetch_and_store_metrics> on 2023-07-22 00:00:00+00:00
+[2023-12-27T12:23:35.978+0545] {standard_task_runner.py:60} INFO - Started process 13999 to run task
+[2023-12-27T12:23:35.980+0545] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'metrics_pipeline', 'fetch_and_store_metrics', 'scheduled__2023-07-22T00:00:00+00:00', '--job-id', '417', '--raw', '--subdir', 'DAGS_FOLDER/taxi_metrics_dag.py', '--cfg-path', '/tmp/tmpv9tac3vn']
+[2023-12-27T12:23:35.980+0545] {standard_task_runner.py:88} INFO - Job 417: Subtask fetch_and_store_metrics
+[2023-12-27T12:23:36.006+0545] {task_command.py:423} INFO - Running <TaskInstance: metrics_pipeline.fetch_and_store_metrics scheduled__2023-07-22T00:00:00+00:00 [running]> on host Sarita-Thinkpad
+[2023-12-27T12:23:36.057+0545] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='metrics_pipeline' AIRFLOW_CTX_TASK_ID='fetch_and_store_metrics' AIRFLOW_CTX_EXECUTION_DATE='2023-07-22T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-22T00:00:00+00:00'
+[2023-12-27T12:23:41.444+0545] {taskinstance.py:2699} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "//home/sarita/Documents/apache-airflow-project/dags/taxi_metrics_dag.py", line 58, in fetch_and_store_metrics
+    clickhouse_data = get_clickhouse_data()
+  File "//home/sarita/Documents/apache-airflow-project/dags/taxi_metrics_dag.py", line 33, in get_clickhouse_data
+    result = clickhouse_conn.query(query)
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/clickhouse_connect/driver/client.py", line 193, in query
+    return self._query_with_context(query_context)
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/clickhouse_connect/driver/httpclient.py", line 209, in _query_with_context
+    response = self._raw_request(body,
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/clickhouse_connect/driver/httpclient.py", line 433, in _raw_request
+    self._error_handler(response)
+  File "/home/sarita/Documents/apache-airflow-project/.venv/lib/python3.9/site-packages/clickhouse_connect/driver/httpclient.py", line 357, in _error_handler
+    raise OperationalError(err_str) if retried else DatabaseError(err_str) from None
+clickhouse_connect.driver.exceptions.DatabaseError: :HTTPDriver for https://github.demo.trial.altinity.cloud:8443 returned response code 400)
+ Code: 62. DB::Exception: Syntax error (Multi-statements are not allowed): failed at position 1290 (end of query) (line 23, col 11): ;
+
+ FORMAT Native. . (SYNTAX_ERROR) (version 23.10.5.20 (official build))
+
+[2023-12-27T12:23:41.449+0545] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=metrics_pipeline, task_id=fetch_and_store_metrics, execution_date=20230722T000000, start_date=20231227T063835, end_date=20231227T063841
+[2023-12-27T12:23:41.461+0545] {standard_task_runner.py:107} ERROR - Failed to execute job 417 for task fetch_and_store_metrics (:HTTPDriver for https://github.demo.trial.altinity.cloud:8443 returned response code 400)
+ Code: 62. DB::Exception: Syntax error (Multi-statements are not allowed): failed at position 1290 (end of query) (line 23, col 11): ;
+
+ FORMAT Native. . (SYNTAX_ERROR) (version 23.10.5.20 (official build))
+; 13999)
+[2023-12-27T12:23:41.466+0545] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2023-12-27T12:23:41.476+0545] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check

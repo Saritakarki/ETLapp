@@ -1,0 +1,946 @@
+[2024-03-18T11:12:28.414+0545] {processor.py:161} INFO - Started process (PID=12286) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:12:28.416+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:12:28.419+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:28.418+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:12:28.427+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:28.425+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:12:28.428+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:12:28.427+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:12:28.429+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:12:28.442+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2024-03-18T11:13:20.703+0545] {processor.py:161} INFO - Started process (PID=12407) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:13:20.707+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:13:20.709+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:20.708+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:13:20.717+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:20.716+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:13:20.718+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:13:20.718+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:13:20.719+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:13:20.736+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-03-18T11:14:13.326+0545] {processor.py:161} INFO - Started process (PID=12492) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:13.330+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:14:13.332+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:13.331+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:13.342+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:13.340+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:14:13.343+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:13.343+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:14:13.344+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:13.359+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-03-18T11:14:54.621+0545] {processor.py:161} INFO - Started process (PID=12567) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:54.623+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:14:54.625+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:54.624+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:54.628+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:54.627+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:14:54.628+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:14:54.628+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:14:54.628+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:14:54.637+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2024-03-18T11:15:45.727+0545] {processor.py:161} INFO - Started process (PID=12820) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:15:45.731+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:15:45.734+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:45.732+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:15:45.742+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:45.741+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:15:45.743+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:15:45.743+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:15:45.744+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:15:45.757+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:16:39.022+0545] {processor.py:161} INFO - Started process (PID=12880) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:16:39.025+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:16:39.025+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:39.025+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:16:39.029+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:39.029+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:16:39.030+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:16:39.030+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:16:39.030+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:16:39.041+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2024-03-18T11:17:34.073+0545] {processor.py:161} INFO - Started process (PID=12968) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:17:34.077+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:17:34.080+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:34.079+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:17:34.089+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:34.087+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:17:34.090+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:17:34.090+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:17:34.091+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:17:34.104+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:18:25.199+0545] {processor.py:161} INFO - Started process (PID=13031) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:18:25.200+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:18:25.202+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:25.201+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:18:25.207+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:25.207+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:18:25.208+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:18:25.208+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:18:25.208+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:18:25.219+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.026 seconds
+[2024-03-18T11:19:56.082+0545] {processor.py:161} INFO - Started process (PID=13139) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:19:56.084+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:19:56.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:56.085+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:19:56.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:56.087+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:19:56.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:19:56.087+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:19:56.087+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:19:56.094+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:20:45.542+0545] {processor.py:161} INFO - Started process (PID=13209) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:20:45.544+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:20:45.544+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:45.544+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:20:45.547+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:45.546+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:20:45.547+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:20:45.547+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:20:45.547+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:20:45.555+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:21:37.397+0545] {processor.py:161} INFO - Started process (PID=13302) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:21:37.401+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:21:37.403+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:37.402+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:21:37.412+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:37.411+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:21:37.413+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:21:37.413+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:21:37.414+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:21:37.497+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.108 seconds
+[2024-03-18T11:22:34.047+0545] {processor.py:161} INFO - Started process (PID=13379) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:22:34.051+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:22:34.053+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:34.052+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:22:34.062+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:34.060+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:22:34.063+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:22:34.063+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:22:34.064+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:22:34.080+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-03-18T11:23:27.235+0545] {processor.py:161} INFO - Started process (PID=13442) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:23:27.237+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:23:27.238+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:27.238+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:23:27.240+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:27.240+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:23:27.241+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:23:27.241+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:23:27.241+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:23:27.248+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-03-18T11:24:21.344+0545] {processor.py:161} INFO - Started process (PID=13552) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:24:21.346+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:24:21.347+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:21.347+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:24:21.349+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:21.349+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:24:21.349+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:24:21.349+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:24:21.350+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:24:21.358+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:25:16.214+0545] {processor.py:161} INFO - Started process (PID=13690) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:25:16.216+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:25:16.217+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:16.216+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:25:16.219+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:16.219+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:25:16.220+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:25:16.219+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:25:16.220+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:25:16.228+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:26:08.209+0545] {processor.py:161} INFO - Started process (PID=13760) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:26:08.213+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:26:08.215+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:08.214+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:26:08.224+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:08.222+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:26:08.225+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:26:08.225+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:26:08.226+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:26:08.240+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:27:06.081+0545] {processor.py:161} INFO - Started process (PID=14301) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:06.083+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:27:06.084+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:06.084+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:06.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:06.086+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:27:06.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:06.087+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:27:06.087+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:06.096+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2024-03-18T11:27:58.404+0545] {processor.py:161} INFO - Started process (PID=14519) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:58.406+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:27:58.407+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:58.406+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:58.409+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:58.409+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:27:58.410+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:27:58.409+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:27:58.410+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:27:58.418+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:28:55.376+0545] {processor.py:161} INFO - Started process (PID=14657) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:28:55.379+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:28:55.379+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:55.379+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:28:55.382+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:55.381+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:28:55.382+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:28:55.382+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:28:55.382+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:28:55.390+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:29:50.611+0545] {processor.py:161} INFO - Started process (PID=14718) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:29:50.613+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:29:50.613+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:50.613+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:29:50.616+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:50.615+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:29:50.616+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:29:50.616+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:29:50.616+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:29:50.623+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:30:46.160+0545] {processor.py:161} INFO - Started process (PID=14855) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:30:46.162+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:30:46.163+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:46.162+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:30:46.164+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:46.164+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:30:46.165+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:30:46.165+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:30:46.165+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:30:46.171+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2024-03-18T11:31:41.838+0545] {processor.py:161} INFO - Started process (PID=14965) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:31:41.842+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:31:41.844+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:41.843+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:31:41.854+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:41.852+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:31:41.855+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:31:41.855+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:31:41.856+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:31:41.870+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2024-03-18T11:32:39.682+0545] {processor.py:161} INFO - Started process (PID=15059) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:32:39.686+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:32:39.689+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:39.688+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:32:39.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:39.696+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:32:39.699+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:32:39.698+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:32:39.699+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:32:39.716+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.042 seconds
+[2024-03-18T11:33:49.349+0545] {processor.py:161} INFO - Started process (PID=15189) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:33:49.353+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:33:49.355+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:49.354+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:33:49.364+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:49.363+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:33:49.365+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:33:49.365+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:33:49.366+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:33:49.382+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-03-18T11:34:37.193+0545] {processor.py:161} INFO - Started process (PID=15339) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:34:37.197+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:34:37.200+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:37.199+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:34:37.209+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:37.208+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:34:37.210+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:34:37.210+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:34:37.211+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:34:37.239+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.054 seconds
+[2024-03-18T11:35:29.243+0545] {processor.py:161} INFO - Started process (PID=15395) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:35:29.245+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:35:29.246+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:29.246+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:35:29.249+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:29.248+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:35:29.249+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:35:29.249+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:35:29.249+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:35:29.331+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.091 seconds
+[2024-03-18T11:36:27.470+0545] {processor.py:161} INFO - Started process (PID=15473) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:36:27.472+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:36:27.473+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:27.473+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:36:27.475+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:27.475+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:36:27.475+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:36:27.475+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:36:27.475+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:36:27.482+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:37:26.097+0545] {processor.py:161} INFO - Started process (PID=15547) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:37:26.101+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:37:26.103+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:26.102+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:37:26.113+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:26.111+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:37:26.114+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:37:26.113+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:37:26.114+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:37:26.128+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-03-18T11:38:20.124+0545] {processor.py:161} INFO - Started process (PID=15655) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:38:20.127+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:38:20.130+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:20.128+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:38:20.138+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:20.137+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:38:20.139+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:38:20.139+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:38:20.140+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:38:20.160+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:39:14.177+0545] {processor.py:161} INFO - Started process (PID=15721) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:39:14.182+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:39:14.184+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:14.183+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:39:14.192+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:14.191+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:39:14.192+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:39:14.192+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:39:14.193+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:39:14.203+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2024-03-18T11:40:07.158+0545] {processor.py:161} INFO - Started process (PID=15789) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:40:07.160+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:40:07.162+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:07.161+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:40:07.165+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:07.165+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:40:07.166+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:40:07.165+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:40:07.166+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:40:07.176+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2024-03-18T11:41:03.897+0545] {processor.py:161} INFO - Started process (PID=15870) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:03.900+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:41:03.903+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:03.902+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:03.911+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:03.909+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:41:03.912+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:03.911+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:41:03.913+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:03.927+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T11:41:57.896+0545] {processor.py:161} INFO - Started process (PID=15964) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:57.900+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:41:57.903+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:57.902+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:57.912+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:57.910+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:41:57.913+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:41:57.912+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:41:57.913+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:41:57.927+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:42:58.770+0545] {processor.py:161} INFO - Started process (PID=16031) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:42:58.774+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:42:58.777+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:58.776+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:42:58.784+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:58.783+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:42:58.785+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:42:58.785+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:42:58.786+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:42:58.798+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2024-03-18T11:43:54.068+0545] {processor.py:161} INFO - Started process (PID=16112) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:43:54.072+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:43:54.075+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:54.073+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:43:54.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:54.083+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:43:54.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:43:54.085+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:43:54.086+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:43:54.099+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:44:52.214+0545] {processor.py:161} INFO - Started process (PID=16187) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:44:52.216+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:44:52.217+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:52.217+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:44:52.220+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:52.219+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:44:52.220+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:44:52.220+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:44:52.220+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:44:52.228+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:45:51.699+0545] {processor.py:161} INFO - Started process (PID=16263) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:45:51.701+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:45:51.702+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:51.701+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:45:51.704+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:51.703+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:45:51.704+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:45:51.704+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:45:51.704+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:45:51.711+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:46:47.440+0545] {processor.py:161} INFO - Started process (PID=16369) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:46:47.442+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:46:47.443+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:47.442+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:46:47.445+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:47.444+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:46:47.445+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:46:47.445+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:46:47.445+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:46:47.452+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:47:43.081+0545] {processor.py:161} INFO - Started process (PID=16469) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:47:43.084+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:47:43.085+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:43.084+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:47:43.087+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:43.087+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:47:43.088+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:47:43.087+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:47:43.088+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:47:43.096+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2024-03-18T11:48:38.496+0545] {processor.py:161} INFO - Started process (PID=16620) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:48:38.499+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:48:38.499+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:38.499+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:48:38.502+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:38.501+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:48:38.502+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:48:38.502+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:48:38.502+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:48:38.511+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T11:49:36.754+0545] {processor.py:161} INFO - Started process (PID=16690) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:49:36.760+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:49:36.762+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:36.761+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:49:36.769+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:36.768+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:49:36.770+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:49:36.770+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:49:36.771+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:49:36.784+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-03-18T11:50:30.063+0545] {processor.py:161} INFO - Started process (PID=16748) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:50:30.066+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:50:30.069+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:30.068+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:50:30.078+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:30.076+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:50:30.079+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:50:30.078+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:50:30.080+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:50:30.097+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.042 seconds
+[2024-03-18T11:51:32.268+0545] {processor.py:161} INFO - Started process (PID=16912) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:51:32.272+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:51:32.275+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:32.274+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:51:32.283+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:32.282+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:51:32.285+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:51:32.284+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:51:32.285+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:51:32.298+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T11:52:31.425+0545] {processor.py:161} INFO - Started process (PID=17050) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:52:31.427+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:52:31.428+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:31.428+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:52:31.430+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:31.430+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:52:31.431+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:52:31.431+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:52:31.431+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:52:31.438+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-03-18T11:53:12.523+0545] {processor.py:161} INFO - Started process (PID=17210) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:53:12.527+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:53:12.530+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:12.529+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:53:12.539+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:12.538+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:53:12.540+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:53:12.540+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:53:12.541+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:53:12.555+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-03-18T11:54:08.593+0545] {processor.py:161} INFO - Started process (PID=17349) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:54:08.597+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:54:08.599+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:08.598+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:54:08.608+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:08.607+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:54:08.610+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:54:08.610+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:54:08.611+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:54:08.623+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:55:06.197+0545] {processor.py:161} INFO - Started process (PID=17423) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:06.199+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:55:06.200+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:06.199+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:06.202+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:06.202+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:55:06.203+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:06.203+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:55:06.203+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:06.209+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T11:55:47.524+0545] {processor.py:161} INFO - Started process (PID=17535) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:47.526+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:55:47.527+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:47.527+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:47.529+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:47.529+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:55:47.529+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:55:47.529+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:55:47.530+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:55:47.536+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2024-03-18T11:56:44.436+0545] {processor.py:161} INFO - Started process (PID=17682) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:56:44.439+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:56:44.442+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:44.441+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:56:44.451+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:44.449+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:56:44.452+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:56:44.451+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:56:44.453+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:56:44.466+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T11:57:39.396+0545] {processor.py:161} INFO - Started process (PID=17768) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:57:39.400+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:57:39.403+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:39.402+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:57:39.411+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:39.410+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:57:39.412+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:57:39.412+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:57:39.413+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:57:39.426+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T11:58:33.796+0545] {processor.py:161} INFO - Started process (PID=17835) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:58:33.799+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:58:33.801+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:33.800+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:58:33.806+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:33.806+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:58:33.807+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:58:33.807+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:58:33.807+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:58:33.823+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.032 seconds
+[2024-03-18T11:59:29.295+0545] {processor.py:161} INFO - Started process (PID=17928) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:59:29.297+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T11:59:29.300+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:29.299+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:59:29.307+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:29.306+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T11:59:29.308+0545] {logging_mixin.py:188} INFO - [2024-03-18T11:59:29.308+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T11:59:29.309+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T11:59:29.330+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T12:00:25.883+0545] {processor.py:161} INFO - Started process (PID=18010) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:00:25.886+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:00:25.887+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:25.887+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:00:25.893+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:25.892+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:00:25.894+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:00:25.893+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:00:25.894+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:00:25.908+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.029 seconds
+[2024-03-18T12:01:21.682+0545] {processor.py:161} INFO - Started process (PID=18081) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:01:21.686+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:01:21.689+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:21.688+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:01:21.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:21.696+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:01:21.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:01:21.697+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:01:21.698+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:01:21.710+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T12:02:18.924+0545] {processor.py:161} INFO - Started process (PID=18157) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:02:18.927+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:02:18.929+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:18.928+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:02:18.934+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:18.933+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:02:18.935+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:02:18.935+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:02:18.935+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:02:18.951+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.031 seconds
+[2024-03-18T12:03:13.796+0545] {processor.py:161} INFO - Started process (PID=18225) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:03:13.800+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:03:13.803+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:13.802+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:03:13.811+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:13.810+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:03:13.812+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:03:13.812+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:03:13.813+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:03:13.826+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T12:04:11.678+0545] {processor.py:161} INFO - Started process (PID=18330) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:04:11.682+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:04:11.685+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:11.684+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:04:11.694+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:11.693+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:04:11.695+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:04:11.695+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:04:11.696+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:04:11.710+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-03-18T12:05:04.306+0545] {processor.py:161} INFO - Started process (PID=18389) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:05:04.308+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:05:04.308+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:04.308+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:05:04.311+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:04.311+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:05:04.311+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:05:04.311+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:05:04.311+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:05:04.318+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-03-18T12:06:00.756+0545] {processor.py:161} INFO - Started process (PID=18456) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:06:00.759+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:06:00.761+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:00.760+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:06:00.769+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:00.768+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:06:00.770+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:06:00.770+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:06:00.771+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:06:00.785+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2024-03-18T12:07:00.092+0545] {processor.py:161} INFO - Started process (PID=18516) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:00.096+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:07:00.098+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:00.097+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:00.107+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:00.105+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:07:00.108+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:00.107+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:07:00.109+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:00.123+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-03-18T12:07:54.507+0545] {processor.py:161} INFO - Started process (PID=18574) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:54.509+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:07:54.510+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:54.510+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:54.512+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:54.512+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:07:54.513+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:07:54.513+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:07:54.513+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:07:54.519+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T12:08:49.846+0545] {processor.py:161} INFO - Started process (PID=18637) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:08:49.848+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:08:49.848+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:49.848+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:08:49.850+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:49.850+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:08:49.851+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:08:49.851+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:08:49.851+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:08:49.857+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T12:09:37.912+0545] {processor.py:161} INFO - Started process (PID=18691) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:09:37.914+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:09:37.917+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:37.916+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:09:37.920+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:37.920+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:09:37.921+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:09:37.921+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:09:37.921+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:09:37.927+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2024-03-18T12:10:33.223+0545] {processor.py:161} INFO - Started process (PID=18751) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:10:33.226+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:10:33.229+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:33.227+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:10:33.237+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:33.236+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:10:33.238+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:10:33.237+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:10:33.238+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:10:33.250+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2024-03-18T12:11:31.475+0545] {processor.py:161} INFO - Started process (PID=18814) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:11:31.477+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:11:31.477+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:31.477+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:11:31.480+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:31.479+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:11:31.480+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:11:31.480+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:11:31.480+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:11:31.488+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-03-18T12:12:29.760+0545] {processor.py:161} INFO - Started process (PID=18877) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:12:29.762+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:12:29.763+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:29.762+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:12:29.765+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:29.765+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:12:29.765+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:12:29.765+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:12:29.765+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:12:29.773+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2024-03-18T12:13:25.113+0545] {processor.py:161} INFO - Started process (PID=18934) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:13:25.117+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:13:25.120+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:25.119+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:13:25.129+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:25.128+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:13:25.130+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:13:25.130+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:13:25.131+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:13:25.145+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2024-03-18T12:14:20.308+0545] {processor.py:161} INFO - Started process (PID=19046) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:14:20.312+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:14:20.315+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:20.313+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:14:20.324+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:20.322+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:14:20.324+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:14:20.324+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:14:20.325+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:14:20.338+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T12:15:18.780+0545] {processor.py:161} INFO - Started process (PID=19134) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:15:18.783+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:15:18.783+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:18.783+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:15:18.786+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:18.785+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:15:18.786+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:15:18.786+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:15:18.786+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:15:18.794+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2024-03-18T12:16:08.617+0545] {processor.py:161} INFO - Started process (PID=19369) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:08.620+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:16:08.620+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:08.620+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:08.622+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:08.622+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:16:08.623+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:08.622+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:16:08.623+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:08.629+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2024-03-18T12:16:50.892+0545] {processor.py:161} INFO - Started process (PID=19507) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:50.896+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:16:50.899+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:50.898+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:50.907+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:50.906+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:16:50.908+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:16:50.907+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:16:50.908+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:16:50.921+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T12:17:50.325+0545] {processor.py:161} INFO - Started process (PID=19635) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:17:50.329+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:17:50.332+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:50.331+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:17:50.341+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:50.339+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:17:50.342+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:17:50.341+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:17:50.342+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:17:50.356+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T12:18:48.237+0545] {processor.py:161} INFO - Started process (PID=19709) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:18:48.240+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:18:48.242+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:48.241+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:18:48.251+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:48.249+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:18:48.252+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:18:48.251+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:18:48.253+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:18:48.272+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2024-03-18T12:19:40.178+0545] {processor.py:161} INFO - Started process (PID=19770) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:19:40.181+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:19:40.184+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:40.183+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:19:40.193+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:40.191+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:19:40.194+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:19:40.193+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:19:40.194+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:19:40.208+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.038 seconds
+[2024-03-18T12:20:36.879+0545] {processor.py:161} INFO - Started process (PID=19838) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:20:36.883+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:20:36.885+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:36.884+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:20:36.893+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:36.892+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:20:36.894+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:20:36.893+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:20:36.894+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:20:36.906+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2024-03-18T12:21:32.611+0545] {processor.py:161} INFO - Started process (PID=19903) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:21:32.614+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:21:32.617+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:32.616+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:21:32.625+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:32.624+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:21:32.627+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:21:32.626+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:21:32.627+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:21:32.640+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T12:22:25.244+0545] {processor.py:161} INFO - Started process (PID=19971) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:22:25.248+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:22:25.250+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:25.249+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:22:25.257+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:25.256+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:22:25.258+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:22:25.257+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:22:25.258+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:22:25.269+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2024-03-18T12:23:21.698+0545] {processor.py:161} INFO - Started process (PID=20075) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:23:21.706+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:23:21.709+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:21.708+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:23:21.717+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:21.716+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:23:21.718+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:23:21.718+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:23:21.719+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:23:21.741+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2024-03-18T12:24:22.789+0545] {processor.py:161} INFO - Started process (PID=20160) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:24:22.792+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:24:22.794+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:22.793+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:24:22.800+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:22.799+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:24:22.801+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:24:22.801+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:24:22.801+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:24:22.814+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2024-03-18T12:25:15.690+0545] {processor.py:161} INFO - Started process (PID=20414) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:25:15.693+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:25:15.694+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:15.693+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:25:15.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:15.696+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:25:15.697+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:25:15.697+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:25:15.698+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:25:15.708+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2024-03-18T12:26:16.826+0545] {processor.py:161} INFO - Started process (PID=22007) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:26:16.828+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:26:16.829+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:16.828+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:26:16.831+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:16.831+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:26:16.831+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:26:16.831+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:26:16.832+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:26:16.840+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2024-03-18T12:27:15.400+0545] {processor.py:161} INFO - Started process (PID=23599) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:27:15.403+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:27:15.406+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:15.405+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:27:15.415+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:15.413+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:27:15.416+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:27:15.415+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:27:15.416+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:27:15.430+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2024-03-18T12:28:15.877+0545] {processor.py:161} INFO - Started process (PID=24726) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:28:15.880+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:28:15.882+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:15.881+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:28:15.888+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:15.887+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:28:15.889+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:28:15.888+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:28:15.889+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:28:15.907+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2024-03-18T12:29:13.806+0545] {processor.py:161} INFO - Started process (PID=25971) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:29:13.810+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:29:13.813+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:13.812+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:29:13.821+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:13.820+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:29:13.822+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:29:13.822+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:29:13.822+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:29:13.835+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2024-03-18T12:30:09.061+0545] {processor.py:161} INFO - Started process (PID=26141) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:30:09.064+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:30:09.065+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:09.065+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:30:09.069+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:09.069+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:30:09.070+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:30:09.070+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:30:09.070+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:30:09.081+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2024-03-18T12:31:11.201+0545] {processor.py:161} INFO - Started process (PID=28017) to work on /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:31:11.203+0545] {processor.py:830} INFO - Processing file /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-03-18T12:31:11.204+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:11.203+0545] {dagbag.py:540} INFO - Filling up the DagBag from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:31:11.207+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:11.206+0545] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-03-18T12:31:11.207+0545] {logging_mixin.py:188} INFO - [2024-03-18T12:31:11.207+0545] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-03-18T12:31:11.207+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-03-18T12:31:11.216+0545] {processor.py:183} INFO - Processing /home/sarita/Documents/ETLapp/pythonProject/.venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds

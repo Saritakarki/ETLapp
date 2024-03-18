@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  etlapp:
+    build: .
+    ports:
+      - "443:443"
+    volumes:
+      - ./app:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Define any additional configurations as needed
