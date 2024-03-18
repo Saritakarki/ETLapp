@@ -1,5 +1,7 @@
-venv
-pycache/*
+.venv
+venv/
+app/__pycache__
+__py_cache__/
 __pycache__
 .idea
 .idea/*
