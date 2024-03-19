@@ -1,6 +1,6 @@
 .venv
 venv/
-app/__pycache__
+app/src/__pycache__
 __py_cache__/
 __pycache__
 .idea

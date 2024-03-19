@@ -1,8 +1,12 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from app.database import Database
-from app.api import APIClient
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.getcwd()))  # This shall be the path for your root project
+from database import Database
+from api import APIClient
 import logging
 
 logger = logging.getLogger('ETL Logger')
