@@ -1,3 +1,4 @@
+# IN PROGRESS
 # Use the official Airflow image
 FROM apache/airflow:2.2.0
 
